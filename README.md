@@ -24,3 +24,6 @@ actifio : | Actifio Global Manager | Microsoft SQL Server (MSSQL), DR, Backup &a
 - View backups.
 
 ## Protect & Recover Microsoft SQL Server with Actifio
+...ci/cd in progress...
+
+![actifio000.png](./media/actifio000.png)
